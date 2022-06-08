@@ -36,3 +36,12 @@ The Front-End direction attracts me not only with its perspective, but also with
 </body>
 </html>
 ```
+## Education
+
+* **Belarusian National Technical University**
+    * Vehicle maintenance
+* **Self-studying**
+    * [RS School JavaScript/Front-end. Stage 0](https://rs.school/js-stage0/)
+## Languages
+- **Russian** - native speaker.
+- **English** - A2+
