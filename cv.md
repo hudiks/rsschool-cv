@@ -14,7 +14,8 @@ The Front-End direction attracts me not only with its perspective, but also with
     * Fast learner
     * Hard-working
     * Without bad habbits
-    ## Skills
+
+## Skills
 
 - HTML
 - CSS
